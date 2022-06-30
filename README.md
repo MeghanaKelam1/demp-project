@@ -6,7 +6,5 @@ Hey what's up
 
 ## third heading
 hello
-i'm Meghana...g
-
-#### opening
-open the google chrome 
+i'm Meghana......
+hey git
